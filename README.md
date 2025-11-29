@@ -259,8 +259,6 @@ const verification = await verifier.verifyProof(proof);
 |----------|-------------|
 | [Protocol Specification v1.1](docs/PROTOCOL_SPEC_v1.1.pdf) | Complete technical specification |
 | [Integration Guide](docs/INTEGRATION_GUIDE.md) | Step-by-step integration |
-| [Architecture Overview](docs/ARCHITECTURE.md) | System design deep-dive |
-| [Adapter Development](docs/ADAPTER_GUIDE.md) | Build custom protocol adapters |
 
 ---
 
