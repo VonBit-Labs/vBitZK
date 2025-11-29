@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://vonbit.co/logo.svg" alt="vBitZK" width="120" />
+  <img src="assets/VonBit-Logo.png" alt="vBitZK" width="120" />
 </p>
 
 <h1 align="center">vBitZK</h1>
